@@ -1,2 +1,22 @@
 # Smart-lock-software
 this is where the Smart lock Thesis Hardware and Software Program code, Store here online
+
+Flow of a system
+
+( Software [C# or Python] )
+
++Login (may setup gagawin or pede gumamit ng email)
++Smart Lock Status (landing page)
++Device Management like Add, Config, archive ( with arduino Settings)
++Database management page like history, date etc...
++Security page lam nyo na
+
+( Hardware [Arduino Mega} )
+
++Config file 
++Store offline data (Optional)
++Anti - Intruder
++Sensors and Actuators
++touch pad and Camera
++Frame of a hardware
++Modules
