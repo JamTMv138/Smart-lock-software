@@ -20,3 +20,17 @@ Flow of a system
 +touch pad and Camera
 +Frame of a hardware
 +Modules
+
+Components needs:
+
+Arduino mega (meron nang isa)
+Camera Module (meron na)
+Wirings (meron na)
+RIFD module (meron na)
+Touch screen shield
+Wifi Module
+Power supply for arduino
+Resistors
+Solenoid lock
+12v converter
+RFID cards
