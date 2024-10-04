@@ -3,7 +3,7 @@ this is where the Smart lock Thesis Hardware and Software Program code, Store he
 
 Flow of a system
 
-( Software [C# or Python] )
+( Sofware WEBPAGE )
 
 +Login (may setup gagawin or pede gumamit ng email)
 +Smart Lock Status (landing page)
