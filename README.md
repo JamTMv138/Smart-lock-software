@@ -53,6 +53,8 @@ Wifi Module
 
 Power supply for arduino
 
+Ultrasonic sensor
+
 Resistors
 
 Solenoid lock
